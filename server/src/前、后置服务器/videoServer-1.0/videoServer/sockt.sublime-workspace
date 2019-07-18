@@ -1,0 +1,274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"EXIT_FAILURE"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"wor",
+				"word-spacing\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2"
+	],
+	"file_history":
+	[
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/BaseStream.h.dump",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/EpollTcpServer.cpp.dump",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/BaseSocket.cpp",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/BaseSocket.h.dump",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/BackServer.cpp",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/BaseSocket.h",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/EpollBase.cpp",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/QQEpollTcpServer.h",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass3/BackServer.cpp",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/QQEpollTcpServer.cpp.dump",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/QQEpollTcpServer.cpp",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/EpollTcpServer.cpp",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson20 -- 池技术/MemoryPool/链表式设计/MemoryPool.c",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson20 -- 池技术/MemoryPool/链表式设计/MemoryPool.h.dump",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson20 -- 池技术/MemoryPool/链表式设计/MemoryPool.h",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson20 -- 线程池/mempool/memPool.c",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson20 -- 线程池/mempool/memPool.h",
+		"/F/opencv/demo/video1/video1.pro",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/client1.cpp.dump",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/TcpSocket.h.dump",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/HostAddress.h.dump",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/ShmFIFO.h.dump",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/ShmFIFO.cpp.dump",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/ShmFIFO.h",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson18 -- socket封装/socketclass2/ShmFIFO.cpp",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson17 -- socket模型/epoll/tcpserver.c",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson17 -- socket模型/poll/tcpclient.c.dump",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson17 -- socket模型/poll/poll_server.c.dump",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson17 -- socket模型/poll/poll_server.c",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson17 -- socket模型/select/cli.c",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson17 -- socket模型/select/ser.c.dump",
+		"/F/嵌入式课程/04 Linux课程/S4 linux高级编程 -- 示例代码/lesson17 -- socket模型/select/ser.c",
+		"/F/zqf/MSFisheye/msapp/src/boards/a5s/amboot/build/Makefile",
+		"/F/zqf/MSFisheye/msapp/src/boards/a5s/amboot/config/Makefile.archbsp",
+		"/F/zqf/MSFisheye/msapp/src/boards/a5s/amboot/config/Makefile.devfw",
+		"/F/zqf/MSFisheye/msapp/src/boards/a5s/amboot/config/Makefile.upfw",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_05/day05/07.display.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_05/day05/06.内联元素的盒子.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_05/day05/05.默认样式.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_05/day05/04.外边距.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_05/day05/03.外边距.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_05/day05/02.内边距.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_05/day05/01.边框.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/说明.txt.dump",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_04/day04/09.盒子模型.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_04/day04/08.文本样式.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_04/day04/06.字体的其他样式.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_04/day04/01.定义列表.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_03/day03/12.列表.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_04/day04/02.单位.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_04/day04/03.颜色的单位.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_03/day03/09.选择器的优先级.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_03/day03/11.文本标签.html",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/分类.txt",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/说明.txt",
+		"/J/前端学习/Web前端基础/尚硅谷HTML+CSS视频/源码、课件/源码/source_03/day03/08.样式的继承.html",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_03/day03/06.兄弟元素选择器.html",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_03/day03/02.伪类选择器.html",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_03/day03/04.属性选择器.html",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_02/day02/03.常用的选择器.html",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_02/day02/02.块和内联.html",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_02/day02/01.demo.html",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_02/demo/demo01.html",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_02/demo/demo06.html",
+		"/C/Users/eric/Desktop/libevent源码解析/readme.md",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_02/demo/exer/exer.html",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_02/练习/练习1/index.html",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_02/demo/demo04.html",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_01/demo/demo02.html.dump",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_01/demo/demo03.html.dump",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_01/demo/demo06.html",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_01/demo/test.txt.dump",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_01/demo/demo01.html.dump",
+		"/C/Users/eric/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/J/前端学习/尚硅谷HTML+CSS视频/源码、课件/源码/source_01/demo/demo01.html",
+		"/J/物联网/11 协议/13 ZigBee/基于Zigbee协议栈的DHT11串口实验/GenericApp/Source/Coordinator.c",
+		"/J/前端学习/第1轮－快速掌握网页开发/(1)HTML5/html5/html5/06.html",
+		"/J/前端学习/第1轮－快速掌握网页开发/(1)HTML5/html5/html5/12.html",
+		"/J/前端学习/第1轮－快速掌握网页开发/(1)HTML5/html5/html5/13.html",
+		"/J/前端学习/第1轮－快速掌握网页开发/(1)HTML5/html5/html5/14.html",
+		"/J/前端学习/第1轮－快速掌握网页开发/(1)HTML5/html5/html5/test.html",
+		"/J/前端学习/第1轮－快速掌握网页开发/(1)HTML5/html5/html5/04.html",
+		"/J/前端学习/第1轮－快速掌握网页开发/(1)HTML5/html5/html5/01.html",
+		"/C/Users/eric/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/eric/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"EigthByte"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sockt.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,12 @@
+---- m_bRun Matches (11 in 3 files) ----
+BaseThread.cpp (f:\ght_share\phase3\cp15\pthreadclassstep7)::m_bRun(false)
+BaseThread.cpp (f:\ght_share\phase3\cp15\pthreadclassstep7):	if (m_bRun == false)	//m_bRun为线程是否已经在运行了
+BaseThread.cpp (f:\ght_share\phase3\cp15\pthreadclassstep7):	if (m_bRun == false)	//m_bRun为线程是否已经在运行了
+BaseThread.cpp (f:\ght_share\phase3\cp15\pthreadclassstep7):    m_bRun = false;
+BaseThread.cpp (f:\ght_share\phase3\cp15\pthreadclassstep7):	return m_bRun;
+BaseThread.cpp (f:\ght_share\phase3\cp15\pthreadclassstep7):	thr->m_bRun = true;
+BaseThread.cpp (f:\ght_share\phase3\cp15\pthreadclassstep7):	thr->m_bRun = false;	
+BaseThread.h (f:\ght_share\phase3\cp15\pthreadclassstep7):	bool m_bRun;      // 运行标记
+Client.cpp (f:\ght_share\phase3\cp15\pthreadclassstep7):    while(m_bRun)
+Client.cpp (f:\ght_share\phase3\cp15\pthreadclassstep7):    m_bRun = false;
+Client.cpp (f:\ght_share\phase3\cp15\pthreadclassstep7):	while(m_bRun)
